@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "(Draft) SQL Analysis of Monthly Spending"
-date:       2017-10-07 18:26:39 +0000
+date:       2017-10-07 14:26:40 -0400
 permalink:  draft_sql_analysis_of_monthly_spending
 ---
 
@@ -11,6 +11,7 @@ permalink:  draft_sql_analysis_of_monthly_spending
 3. Group by category: TV, reading, gym, other
 4. Analyze savings
 
+Use example of finding difference between 2 columns
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porttitor, purus non finibus commodo, risus felis laoreet tortor, vel maximus nunc tortor id erat. Curabitur semper sem in arcu convallis congue. Nunc nec nunc nec quam vehicula euismod. In mollis neque non elementum placerat. Vestibulum volutpat dolor ac ultricies mollis. Quisque metus urna, convallis nec efficitur non, fringilla sed libero. Aenean sodales elit ante, eu laoreet ipsum feugiat eu.
 
