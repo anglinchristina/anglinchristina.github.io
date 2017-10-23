@@ -6,12 +6,7 @@ permalink:  draft_sql_analysis_of_monthly_spending
 ---
 
 
-The Learn curriculum introduces us to:
-* SQLite
-* incorporating SQL queries into object-oriented programming with ORMs (specifically using the [SQLite3 gem](http://) which allows us to pass in Ruby variables when we execute SQL)
-* ActiveRecord
-
-I'm currently really excited about SQL.  So why NoSQL?! 
+I just started learning SQL and getting really excited about it.  So why NoSQL?! 
 * cloud-friendly
 * fast
 * cheap
@@ -19,7 +14,7 @@ I'm currently really excited about SQL.  So why NoSQL?!
 But remember...
 *NoSQL is NOT a relational database.
 
-Couchbase is a document (JSON string)-oriented database solution, and is an alternative to MongoDB and ORMs.  
+[Couchbase](https://www.couchbase.com/) is a document-oriented database solution (document being a JSON string), and is an alternative to MongoDB and ORMs.  
 
 Ricky Ho [explains](https://dzone.com/articles/couchbase-architecture-deep):
 "Couchbase is the merge of two popular NOSQL technologies:  
