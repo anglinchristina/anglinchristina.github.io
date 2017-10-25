@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Progressive Web Apps"
-date:       2017-10-23 22:11:32 +0000
+date:       2017-10-23 18:11:33 -0400
 permalink:  progressive_web_apps
 ---
 
@@ -15,7 +15,6 @@ Progressive web apps (PWAs) combine native mobile UX with web functionality.
 
 Native, offline features like push notifications & cached content are made possible by [service workers](https://developers.google.com/web/fundamentals/primers/service-workers/), JavaScript files that act as a proxy between your web app and servers.  
 * Service workers check if they're supported before running and won't crash your web app on non-supported browsers.
-* Side note - this is the first time I've heard about JavaScript workers, and I'm going to read up on how they can be used for QA + debugging!
 
 You can edit the app's manifest.json file to display:standalone so that your content will be full screen and not displayed within the browser.  
 
